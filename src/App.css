@@ -1,0 +1,6 @@
+:root{
+    --n:NULL;
+}
+.ils{
+    letter-spacing:var(--n);
+}

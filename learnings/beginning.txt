@@ -1,0 +1,1 @@
+once we get the folder structure we can start with editing the app.js file to create our react app.

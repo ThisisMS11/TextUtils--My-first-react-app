@@ -1,0 +1,34 @@
+There are two types of components in react js:-
+1. Class based components
+2. Function based components
+
+Now react used functions based components more than class based components i.e.
+
+What is JSX?
+-------->
+    function App() {
+    return (
+        <div className="App">                   <---------------- Start
+        <header className="App-header">                          
+            <img src={logo} className="App-logo" alt="logo" />
+            <p>
+            Edit <code>src/App.js</code> and save to reload.
+            </p>
+            <a
+            className="App-link"
+            href="https://reactjs.org"
+            target="_blank"
+            rel="noopener noreferrer"
+            >
+            Learn React with mohit saini
+            </a>
+        </header>
+        </div>                                   <-------------- End
+    );
+    }
+
+from start to end what is written is jsx .
+
+#while using jsx we have to make sure that we use following alternatives due to keyword reservation in js:-
+class=className
+for = For
